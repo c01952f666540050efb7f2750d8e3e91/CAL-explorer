@@ -1,0 +1,111 @@
+name,ticker,supported on Ledger Live?,ledger id
+ Algorand,ALGO,YES,algorand 
+ Avalanche C-Chain,AVAX,YES,avalanche_c_chain 
+ Binance Smart Chain,BNB,YES,bsc 
+ Bitcoin,BTC,YES,bitcoin 
+ Bitcoin Cash,BCH,YES,bitcoin_cash 
+ Bitcoin Gold,BTG,YES,bitcoin_gold 
+ Cardano,ADA,YES,cardano 
+ Celo,CELO,YES,celo 
+ Cosmos,ATOM,YES,cosmos 
+ Cronos,CRO,YES,cronos 
+ Crypto.org,CRO,YES,crypto_org 
+ Dash,DASH,YES,dash 
+ Decred,DCR,YES,decred 
+ DigiByte,DGB,YES,digibyte 
+ Dogecoin,DOGE,YES,dogecoin 
+ Ethereum,ETH,YES,ethereum 
+ Ethereum Classic,ETC,YES,ethereum_classic 
+ Fantom,FTM,YES,fantom 
+ Filecoin,FIL,YES,filecoin 
+ Flare,FLR,YES,flare 
+ Hedera,HBAR,YES,hedera 
+ Horizen,ZEN,YES,zencash 
+ Komodo,KMD,YES,komodo 
+ Litecoin,LTC,YES,litecoin 
+ Moonbeam,GLMR,YES,moonbeam 
+ MultiversX,EGLD,YES,elrond 
+ NEAR,NEAR,YES,near 
+ Osmosis,OSMO,YES,osmo 
+ Peercoin,PPC,YES,peercoin 
+ PivX,PIVX,YES,pivx 
+ Polkadot,DOT,YES,polkadot 
+ Polygon,MATIC,YES,polygon 
+ Qtum,QTUM,YES,qtum 
+ Solana,SOL,YES,solana 
+ Songbird,SGB,YES,songbird 
+ Stellar,XLM,YES,stellar 
+ Tezos,XTZ,YES,tezos 
+ Tron,TRX,YES,tron 
+ Vertcoin,VTC,YES,vertcoin 
+ Viacoin,VIA,YES,viacoin 
+ XRP,XRP,YES,ripple 
+ Zcash,ZEC,YES,zcash 
+ Aion,AION,NO,aion 
+ Akroma,AKA,NO,akroma 
+ Arbitrum,ETH,NO,arbitrum 
+ Ark,ARK,NO,ark 
+ Atheios,ATH,NO,atheios 
+ Banano,BANANO,NO,banano 
+ Bitcoin Private,BTCP,NO,bitcoin_private 
+ Callisto,CLO,NO,callisto 
+ DEXON,DXN,NO,dexon 
+ EOS,EOS,NO,eos 
+ Elastos,ELA,NO,elastos 
+ Ellaism,ELLA,NO,ellaism 
+ EnergyWebChain,EWT,NO,energywebchain 
+ Ether1,ETHO,NO,ether1 
+ EtherGem,EGEM,NO,ethergem 
+ Ethersocial,ESN,NO,ethersocial 
+ Expanse,EXP,NO,expanse 
+ FIC,FIC,NO,fic 
+ Factom,FCT,NO,factom 
+ Flow,FLOW,NO,flow 
+ GameCredits,GAME,NO,game_credits 
+ GoChain,GO,NO,gochain 
+ Groestlcoin,GRS,NO,groestcoin 
+ Helium,HNT,NO,helium 
+ High Performance Blockchain,HPB,NO,hpb 
+ Hycon,HYC,NO,hycon 
+ ICON,ICX,NO,icon 
+ IOTA,MIOTA,NO,iota 
+ IOV,IOV,NO,iov 
+ Internet Computer (ICP),ICP,NO,icp 
+ Juno,JUNO,NO,juno 
+ Kin,KIN,NO,kin 
+ Kusama,KSM,NO,kusama 
+ LBRY,LBRY,NO,LBRY 
+ MIX Blockchain,MIX,NO,mix 
+ Monero,XMR,NO,monero 
+ Moonriver,MOVR,NO,moonriver 
+ Musicoin,MUSIC,NO,musicoin 
+ NEM,XEM,NO,nem 
+ NOS,NOS,NO,nos 
+ Nano,NANO,NO,nano 
+ Neo,NEO,NO,neo 
+ Nervos,CKB,NO,nervos 
+ Nimiq,NIM,NO,nimiq 
+ Nix,NIX,NO,nix 
+ Ontology,ONT,NO,ontology 
+ POA,POA,NO,poa 
+ Particl,PART,NO,particl 
+ Pirl,PIRL,NO,pirl 
+ QRL,QRL,NO,qrl 
+ REOSC,REOSC,NO,reosc 
+ Ravencoin,RVN,NO,ravencoin 
+ Resistance,RES,NO,resistance 
+ Rise,RISE,NO,rise 
+ Shyft,SHFT,NO,shyft 
+ Stacks,STX,NO,stacks 
+ Thundercore,TT,NO,thundercore 
+ TomoChain,TOMO,NO,tomo 
+ Ubiq,UBQ,NO,ubiq 
+ VeChain,VET,NO,vechain 
+ Wanchain,WAN,NO,wanchain 
+ Waves,WAVES,NO,waves 
+ ZClassic,ZCL,NO,zclassic 
+ ZCoin,XZC,NO,zcoin 
+ Zilliqa,ZIL,NO,zilliqa 
+ lisk,LSK,NO,lisk 
+ æternity,AE,NO,aeternity 
+
